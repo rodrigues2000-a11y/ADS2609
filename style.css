@@ -1,8 +1,15 @@
 h2{
     background-color: darkgray;
     text-align: center;
+    color: darkblue;
 }
 
 form{
     text-align: center;
+    color: rgb(1, 1, 94);
+}
+
+input{
+    border-radius: 20px;
+    box-shadow: 20px;
 }
